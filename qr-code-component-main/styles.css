@@ -1,0 +1,24 @@
+* {
+    background-color: lightsteelblue;
+}
+
+.container {
+    width: 12.5rem;
+    height: 400px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border-radius: 10px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    background-color: white;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+    background-color: white;
+}
